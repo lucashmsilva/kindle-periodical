@@ -11,7 +11,7 @@
     const jsdom = require('jsdom');
     const fetch = require('node-fetch');
     const download = require('download');
-    const readability = require('readability');
+    const readability = require('@mozilla/readability');
     const jimp = require('jimp');
     const isAbsoluteUrl = require('is-absolute-url');
 

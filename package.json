@@ -24,7 +24,7 @@
     "jsdom": "^15.1.1",
     "minimist": "^1.2.0",
     "node-fetch": "^2.1.2",
-    "readability": "git://github.com/mozilla/readability.git",
+    "@mozilla/readability": "^0.4.1",
     "rimraf": "^2.6.2",
     "sanitize-html": "^1.17.0",
     "showdown": "^1.8.6",
